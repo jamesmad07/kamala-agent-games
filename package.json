@@ -1,0 +1,9 @@
+{
+  "name": "kamala-agent-games",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KAMALA-07 — verifiable agent for zkVerify Agent Games (Proof Gatekeeper + Steal the VFY)",
+  "scripts": { "start": "node server.mjs", "test": "node test-local.mjs" },
+  "dependencies": { "snarkjs": "0.7.6" }
+}
